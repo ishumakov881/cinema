@@ -1,0 +1,555 @@
+#EXTM3U url-tvg=http://dvbip.tv/files/program_tv.zip,http://dvbip.tv/files/Icons.zip m3uautoload=1 tvg-shift=-3 name="DVBIP.TV все каналы"
+#EXTINF:-1 tvg-name="Первый канал" tvg-logo="perviy_1_kanal" group-title="Федеральные",Первый канал
+http://st08.dvbip.tv:1388/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1" tvg-logo="rossiya_1" group-title="Федеральные",Россия 1
+http://st09.dvbip.tv:1333/index.m3u8
+#EXTINF:-1 tvg-name="Матч!" tvg-logo="match_tv_ru" group-title="Федеральные",Матч!
+http://st09.dvbip.tv:1305/index.m3u8
+#EXTINF:-1 tvg-name="НТВ" tvg-logo="ntv_ru" group-title="Федеральные",НТВ
+http://st09.dvbip.tv:1364/index.m3u8
+#EXTINF:-1 tvg-name="Пятый канал" tvg-logo="kanal5_petersburg" group-title="Федеральные",Пятый канал
+http://st09.dvbip.tv:1325/index.m3u8
+#EXTINF:-1 tvg-name="Россия К" tvg-logo="rossiya_kultura" group-title="Федеральные",Россия К
+http://st08.dvbip.tv:1384/index.m3u8
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="rossiya_24" group-title="Федеральные",Россия 24
+http://st08.dvbip.tv:1398/index.m3u8
+#EXTINF:-1 tvg-name="Карусель" tvg-logo="karusel_international" group-title="Федеральные",Карусель
+http://st09.dvbip.tv:1340/index.m3u8
+#EXTINF:-1 tvg-name="ОТР" tvg-logo="otr_ru" group-title="Федеральные",ОТР
+http://st08.dvbip.tv:1490/index.m3u8
+#EXTINF:-1 tvg-name="ТВЦ" tvg-logo="tvcentr_international" group-title="Федеральные",ТВЦ
+http://st08.dvbip.tv:1382/index.m3u8
+#EXTINF:-1 tvg-name="РЕН" tvg-logo="ren_tv_ru" group-title="Федеральные",РЕН ТВ
+http://st09.dvbip.tv:1230/index.m3u8
+#EXTINF:-1 tvg-name="Спас" tvg-logo="telekanal-spas-ru" group-title="Федеральные",Спас
+http://st08.dvbip.tv:1347/index.m3u8
+#EXTINF:-1 tvg-name="СТС" tvg-logo="sts_hd" group-title="Федеральные",СТС
+http://st09.dvbip.tv:1459/index.m3u8
+#EXTINF:-1 tvg-name="Домашний" tvg-logo="domashniy" group-title="Федеральные",Домашний
+http://st09.dvbip.tv:1427/index.m3u8
+#EXTINF:-1 tvg-name="ТВ-3" tvg-logo="tv_3_ru" group-title="Федеральные",ТВ-3
+http://st09.dvbip.tv:1214/index.m3u8
+#EXTINF:-1 tvg-name="Пятница" tvg-logo="pyat_nitsa_ru" group-title="Федеральные",Пятница
+http://st08.dvbip.tv:1215/index.m3u8
+#EXTINF:-1 tvg-name="Звезда" tvg-logo="zvezda_telekanal" group-title="Федеральные",Звезда
+http://st09.dvbip.tv:1372/index.m3u8
+#EXTINF:-1 tvg-name="Мир" tvg-logo="mir_ru" group-title="Федеральные",Мир
+http://st08.dvbip.tv:1377/index.m3u8
+#EXTINF:-1 tvg-name="ТНТ" tvg-logo="tnt_ru" group-title="Федеральные",ТНТ
+http://st09.dvbip.tv:1231/index.m3u8
+#EXTINF:-1 tvg-name="Муз ТВ" tvg-logo="muz_tv" group-title="Федеральные",Муз ТВ
+http://st08.dvbip.tv:1233/index.m3u8
+#EXTINF:-1 tvg-name="Луганск 24" tvg-logo="lugansk_24" group-title="Общеформатные",Луганск 24
+http://st09.dvbip.tv:1331/index.m3u8
+#EXTINF:-1 tvg-name="НТВ HD" tvg-logo="ntv_ru" group-title="Общеформатные",НТВ HD
+http://st09.dvbip.tv:1415/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Мир" tvg-logo="ntv_world_ru" group-title="Общеформатные",НТВ Мир
+http://st09.dvbip.tv:1387/index.m3u8
+#EXTINF:-1 tvg-name="Красная Линия" tvg-logo="krasnaya_liniya_ru" group-title="Общеформатные",Красная Линия
+http://st08.dvbip.tv:1226/index.m3u8
+#EXTINF:-1 tvg-name="Москва Доверие" tvg-logo="moskva_doverie_ru" group-title="Общеформатные",Москва Доверие
+http://st08.dvbip.tv:1332/index.m3u8
+#EXTINF:-1 tvg-name="Центральное телевидение" tvg-logo="centralnoe-tv-ru" group-title="Общеформатные",Центральное телевидение
+http://st09.dvbip.tv:1326/index.m3u8
+#EXTINF:-1 tvg-name="РТР-Планета" tvg-logo="rtr_planeta_ua" group-title="Общеформатные",РТР-Планета
+http://st08.dvbip.tv:1313/index.m3u8
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="cgtn_cn" group-title="Общеформатные",CGTN
+http://st08.dvbip.tv:1397/index.m3u8
+#EXTINF:-1 tvg-name="Пятый канал Int." tvg-logo="5_kanal_international" group-title="Общеформатные",Пятый канал Int.
+http://st09.dvbip.tv:1350/index.m3u8
+#EXTINF:-1 tvg-name="Первый канал HD" tvg-logo="perviy_1_kanal" group-title="Общеформатные",Первый канал HD
+http://st09.dvbip.tv:1406/index.m3u8
+#EXTINF:-1 tvg-name="Россия 1 HD" tvg-logo="rossiya_hd_ru" group-title="Общеформатные",Россия 1 HD
+http://st09.dvbip.tv:1405/index.m3u8
+#EXTINF:-1 tvg-name="8 Канал" tvg-logo="8_tv_ru" group-title="Общеформатные",8 Канал
+http://st08.dvbip.tv:1392/index.m3u8
+#EXTINF:-1 tvg-name="БелРос" tvg-logo="belros-ru" group-title="Общеформатные",БелРос
+http://st09.dvbip.tv:1379/index.m3u8
+#EXTINF:-1 tvg-name="5 канал СПБ int. HD" group-title="Общеформатные",5 канал СПБ int. HD
+http://st08.dvbip.tv:1205/index.m3u8
+#EXTINF:-1 tvg-name="Рен ТВ HD" group-title="Общеформатные",Рен ТВ HD
+http://st08.dvbip.tv:1218/index.m3u8
+#EXTINF:-1 tvg-name="Звезда Плюс HD" group-title="Общеформатные",Звезда Плюс HD
+http://st08.dvbip.tv:1227/index.m3u8
+#EXTINF:-1 tvg-name="РБК HD" tvg-logo="rbc" group-title="Информационные",РБК HD
+http://st09.dvbip.tv:1369/index.m3u8
+#EXTINF:-1 tvg-logo="lds_info" group-title="Информационные",ЛДС Инфо
+http://st08.dvbip.tv:1301/index.m3u8
+#EXTINF:-1 tvg-name="360° Новости" tvg-logo="360-degree-novosti-ru" group-title="Информационные",360° Новости
+http://st09.dvbip.tv:1247/index.m3u8
+#EXTINF:-1 tvg-name="Известия" tvg-logo="izvestiatv-ru" group-title="Информационные",Известия
+http://st08.dvbip.tv:1426/index.m3u8
+#EXTINF:-1 tvg-name="Успех" tvg-logo="uspeh" group-title="Информационные",Успех
+http://st08.dvbip.tv:1224/index.m3u8
+#EXTINF:-1 tvg-name="Телеканал 360° HD" tvg-logo="telekanal_360_hd" group-title="Информационные",Телеканал 360° HD
+http://st09.dvbip.tv:1396/index.m3u8
+#EXTINF:-1 tvg-name="Союз" tvg-logo="soyuz_ru" group-title="Информационные",Союз
+http://st08.dvbip.tv:1260/index.m3u8
+#EXTINF:-1 tvg-name="Мир 24" tvg-logo="mir_24_ru" group-title="Информационные",Мир 24
+http://st08.dvbip.tv:1385/index.m3u8
+#EXTINF:-1 tvg-name="Москва 24" tvg-logo="moskva_24" group-title="Информационные",Москва 24
+http://st08.dvbip.tv:1335/index.m3u8
+#EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="soloview-live-ru" group-title="Информационные",Соловьёв Live
+http://st08.dvbip.tv:1285/index.m3u8
+#EXTINF:-1 tvg-name="ТНТ4" tvg-logo="tnt_ru_4" group-title="Развлекательные",ТНТ4
+http://st09.dvbip.tv:1237/index.m3u8
+#EXTINF:-1 tvg-name="Телеканал E HD" tvg-logo="e-ru" group-title="Развлекательные",E HD
+http://st09.dvbip.tv:1437/index.m3u8
+#EXTINF:-1 tvg-name="FashionBox" tvg-logo="fashion_box_hd" group-title="Развлекательные",FashionBox
+http://st09.dvbip.tv:1371/index.m3u8
+#EXTINF:-1 tvg-name="2x2" tvg-logo="telekanal_2x2_moskva" group-title="Развлекательные",2X2
+http://st09.dvbip.tv:1225/index.m3u8
+#EXTINF:-1 tvg-name="Анекдот ТВ" tvg-logo="anekdot_tv_ru" group-title="Развлекательные",Анекдот ТВ
+http://st09.dvbip.tv:1381/index.m3u8
+#EXTINF:-1 tvg-name="ТНТ HD" tvg-logo="tnt_hd" group-title="Развлекательные",ТНТ HD
+http://st09.dvbip.tv:1422/index.m3u8
+#EXTINF:-1 tvg-name="О!2" tvg-logo="o2_tv_ru" group-title="Развлекательные",О!2
+http://st08.dvbip.tv:1363/index.m3u8
+#EXTINF:-1 tvg-name="Продвижение" tvg-logo="prodvizhenie_tv_ru" group-title="Развлекательные",Продвижение
+http://st08.dvbip.tv:1255/index.m3u8
+#EXTINF:-1 tvg-name="Ювелирочка" tvg-logo="juvelirochka_ru" group-title="Развлекательные",Ювелирочка
+http://st08.dvbip.tv:1261/index.m3u8
+#EXTINF:-1 tvg-name="Суббота!" tvg-logo="subbota-ru" group-title="Развлекательные",Суббота!
+http://st09.dvbip.tv:1222/index.m3u8
+#EXTINF:-1 tvg-name="Телекафе" tvg-logo="telecafe_ru" group-title="Развлекательные",Телекафе
+http://st08.dvbip.tv:1355/index.m3u8
+#EXTINF:-1 tvg-name="Ностальгия" aspect-ratio=16:9 tvg-logo="nostalgia" group-title="Развлекательные",Ностальгия
+http://st08.dvbip.tv:1327/index.m3u8
+#EXTINF:-1 tvg-name="КВН ТВ" tvg-logo="kvn_ru" group-title="Развлекательные",КВН ТВ
+http://st09.dvbip.tv:1271/index.m3u8
+#EXTINF:-1 tvg-name="FoodTime HD" tvg-logo="food-time-ru" group-title="Развлекательные",FoodTime HD
+http://st08.dvbip.tv:1475/index.m3u8
+#EXTINF:-1 tvg-name="Сарафан" tvg-logo="sarafan_telekanal" group-title="Развлекательные",Сарафан
+http://st08.dvbip.tv:1212/index.m3u8
+#EXTINF:-1 tvg-name="Че!" tvg-logo="Che_Tv" group-title="Развлекательные",Че!
+http://st09.dvbip.tv:1394/index.m3u8
+#EXTINF:-1 tvg-name="Перец" tvg-logo="peretz_international" group-title="Развлекательные",Перец
+http://st08.dvbip.tv:1488/index.m3u8
+#EXTINF:-1 tvg-name="СТС Int." tvg-logo="sts_international" group-title="Развлекательные",СТС Int.
+http://st09.dvbip.tv:1497/index.m3u8
+#EXTINF:-1 tvg-name="Домашний Int." tvg-logo="domashniy_international" group-title="Развлекательные",Домашний Int.
+http://st09.dvbip.tv:1498/index.m3u8
+#EXTINF:-1 tvg-name="РЕН ТВ Int." tvg-logo="ren_international" group-title="Развлекательные",РЕН ТВ Int.
+http://st08.dvbip.tv:1499/index.m3u8
+#EXTINF:-1 tvg-name="Timeless Dizi Channel" tvg-logo="dizi-us" group-title="Развлекательные",Timeless Dizi Channel
+http://st08.dvbip.tv:1468/index.m3u8
+#EXTINF:-1 tvg-name="Первый Вегетарианский" tvg-logo="perviy_vegetarianskiy_ru" group-title="Развлекательные",Первый Вегетарианский
+http://st08.dvbip.tv:1304/index.m3u8
+#EXTINF:-1 tvg-name="Star Family" tvg-logo="star-family-ua" group-title="Развлекательные",Star Family
+http://st09.dvbip.tv:1320/index.m3u8
+#EXTINF:-1 tvg-name="Глазами туриста HD" tvg-logo="glazami-turista-ru" group-title="Развлекательные",Глазами Туриста HD
+http://st09.dvbip.tv:1366/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Стиль" tvg-logo="ntv_ru_styl" group-title="Развлекательные",НТВ Стиль
+http://st09.dvbip.tv:1375/index.m3u8
+#EXTINF:-1 tvg-name="FastnfunBox" tvg-logo="fast_and_fun_box_hd" group-title="Развлекательные",FastnfunBox
+http://st08.dvbip.tv:1389/index.m3u8
+#EXTINF:-1 tvg-name="Мужской" tvg-logo="muzhskoy" group-title="Развлекательные",Мужской
+http://st09.dvbip.tv:1341/index.m3u8
+#EXTINF:-1 tvg-name="Ю" tvg-logo="u_tv_ru"  tvg-shift=+2 group-title="Развлекательные",Ю
+http://st08.dvbip.tv:1202/index.m3u8
+#EXTINF:-1 tvg-name="СТС Love" tvg-logo="sts_love_ru" group-title="Развлекательные",СТС Love
+http://st09.dvbip.tv:1390/index.m3u8
+#EXTINF:-1 tvg-name="Кто Куда" tvg-logo="kto_kuda" group-title="Развлекательные",Кто Куда
+http://st08.dvbip.tv:1243/index.m3u8
+#EXTINF:-1 tvg-name="Leomax24" tvg-logo="leomax_24" group-title="Развлекательные",Leomax24
+http://st08.dvbip.tv:1349/index.m3u8
+#EXTINF:-1 tvg-name="Gags Network" tvg-logo="gags-network-ca" group-title="Развлекательные",Gags Network
+http://st09.dvbip.tv:1277/index.m3u8
+#EXTINF:-1 tvg-name="Точка ТВ" tvg-logo="tochka_tv_ru" group-title="Развлекательные",Точка ТВ
+http://st08.dvbip.tv:1256/index.m3u8
+#EXTINF:-1 tvg-name="Т24" tvg-logo="techno_24_ru" group-title="Познавательные",Т24
+http://st08.dvbip.tv:1251/index.m3u8
+#EXTINF:-1 tvg-name="Открытый Мир" aspect-ratio=16:9 tvg-logo="otkritiy_mir_ru" group-title="Познавательные",Открытый Мир
+http://st09.dvbip.tv:1337/index.m3u8
+#EXTINF:-1 tvg-name="Terra HD" tvg-logo="terra-ru" group-title="Познавательные",Terra HD
+http://st09.dvbip.tv:1308/index.m3u8
+#EXTINF:-1 tvg-name="Охота и рыбалка" tvg-logo="okhota-i-rybalka-ru" group-title="Познавательные",Охота и рыбалка
+http://st08.dvbip.tv:1204/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Planet HD" tvg-logo="vijuplus-planet-se-ru" group-title="Познавательные",viju+ Planet HD
+http://st08.dvbip.tv:1483/index.m3u8
+#EXTINF:-1 tvg-name="viju Explore" tvg-logo="viju-explore-se-ru" group-title="Познавательные",viju Explore
+http://st09.dvbip.tv:1221/index.m3u8
+#EXTINF:-1 tvg-name="viju History" tvg-logo="viju-history-se-ru" group-title="Познавательные",viju History
+http://st09.dvbip.tv:1253/index.m3u8
+#EXTINF:-1 tvg-name="Top Secret" tvg-logo="soversheno_sekretno_ru" group-title="Познавательные",Top Secret
+http://st08.dvbip.tv:1344/index.m3u8
+#EXTINF:-1 tvg-name="Дикий" tvg-logo="dikiy-ru" group-title="Познавательные",Дикий
+http://st08.dvbip.tv:1316/index.m3u8
+#EXTINF:-1 tvg-name="Наша Тема" tvg-logo="nasha-tema-ru" group-title="Познавательные",Наша Тема
+http://st08.dvbip.tv:1236/index.m3u8
+#EXTINF:-1 tvg-name="Диалоги о рыбалке" tvg-logo="dialogi_o_rybalke_ru" group-title="Познавательные",Диалоги о рыбалке
+http://st08.dvbip.tv:1235/index.m3u8
+#EXTINF:-1 tvg-name="Nat Geo Wild HD" tvg-logo="nat_geo_wild_hd_emea" group-title="Познавательные",Nat Geo Wild HD
+http://st09.dvbip.tv:1358/index.m3u8
+#EXTINF:-1 tvg-name="DocuBOX" tvg-logo="docu_box_hd" group-title="Познавательные",DocuBox
+http://st08.dvbip.tv:1378/index.m3u8
+#EXTINF:-1 tvg-name="Бобёр" tvg-logo="bober_tv_ru" group-title="Познавательные",Бобёр
+http://st09.dvbip.tv:1433/index.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel HD" tvg-logo="discovery_global_us_hd" group-title="Познавательные",Discovery Channel HD
+http://st09.dvbip.tv:1330/index.m3u8
+#EXTINF:-1 tvg-name="Дикая рыбалка HD" tvg-logo="dikaya-rybalka-hd-ru" group-title="Познавательные",Дикая Рыбалка HD
+http://st09.dvbip.tv:1445/index.m3u8
+#EXTINF:-1 tvg-name="Дикая охота HD" tvg-logo="dikaya-okhota-hd-ru" group-title="Познавательные",Дикая Охота HD
+http://st09.dvbip.tv:1446/index.m3u8
+#EXTINF:-1 tvg-name="Живая природа HD" tvg-logo="zhivaya_priroda_hd" group-title="Познавательные",Живая природа HD
+http://st08.dvbip.tv:1318/index.m3u8
+#EXTINF:-1 tvg-name="Океан ТВ" tvg-logo="ocean_tv" group-title="Познавательные",Океан ТВ
+http://st08.dvbip.tv:1465/index.m3u8
+#EXTINF:-1 tvg-name="Авто24" tvg-logo="avto24" group-title="Познавательные",Авто24
+http://st09.dvbip.tv:1467/index.m3u8
+#EXTINF:-1 tvg-name="Da Vinci" tvg-logo="da_vinci" group-title="Познавательные",Da Vinci
+http://st09.dvbip.tv:1353/index.m3u8
+#EXTINF:-1 tvg-name="Моя Планета HD" tvg-logo="planeta_hd" group-title="Познавательные",Моя Планета HD
+http://st08.dvbip.tv:1472/index.m3u8
+#EXTINF:-1 tvg-name="Russian Extreme HD" tvg-logo="russkij-extrem-hd-rex-ru" group-title="Познавательные",Russian Extreme HD
+http://st08.dvbip.tv:1477/index.m3u8
+#EXTINF:-1 tvg-name="Тайны Галактики HD" tvg-logo="galaxy_tv" group-title="Познавательные",Тайны Галактики HD
+http://st08.dvbip.tv:1481/index.m3u8
+#EXTINF:-1 tvg-name="ID Investigation Discovery HD" tvg-logo="investigation_discovery_europe" group-title="Познавательные",Investigation Discovery HD
+http://st08.dvbip.tv:1232/index.m3u8
+#EXTINF:-1 tvg-name="TLC HD" tvg-logo="tlc_ru" group-title="Познавательные",TLC HD
+http://st08.dvbip.tv:1209/index.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD" tvg-logo="animal_planet_us" group-title="Познавательные",Animal Planet HD
+http://st09.dvbip.tv:1241/index.m3u8
+#EXTINF:-1 tvg-name="HDL" tvg-logo="ntv_plus_hd_life" group-title="Познавательные",HDL
+http://st08.dvbip.tv:1409/index.m3u8
+#EXTINF:-1 tvg-name="Мама" tvg-logo="mama_tv" group-title="Познавательные",Мама
+http://st08.dvbip.tv:1217/index.m3u8
+#EXTINF:-1 tvg-name="Авто Плюс" tvg-logo="auto_plus" group-title="Познавательные",Авто Плюс
+http://st08.dvbip.tv:1311/index.m3u8
+#EXTINF:-1 tvg-name="Звезда плюс" tvg-logo="zvezda-plus-ru" group-title="Познавательные",Звезда Плюс
+http://st08.dvbip.tv:1485/index.m3u8
+#EXTINF:-1 tvg-name="Zоопарк" tvg-logo="zoo_park_ru" group-title="Познавательные",Zоопарк
+http://st08.dvbip.tv:1303/index.m3u8
+#EXTINF:-1 tvg-name="National Geographic HD" tvg-logo="nat_geo_us_hd" group-title="Познавательные",National Geographic HD
+http://st09.dvbip.tv:1319/index.m3u8
+#EXTINF:-1 tvg-name="Наука HD" tvg-logo="nauka-ru-hd" group-title="Познавательные",Наука HD
+http://st08.dvbip.tv:1361/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Право" tvg-logo="ntv_ru_pravo" group-title="Познавательные",НТВ Право
+http://st09.dvbip.tv:1374/index.m3u8
+#EXTINF:-1 tvg-name="RTG TV" tvg-logo="rtg_ru_hd" group-title="Познавательные",RTG TV
+http://st09.dvbip.tv:1470/index.m3u8
+#EXTINF:-1 tvg-name="Славянский Мир" tvg-logo="slavyanskiy-mir-ru" group-title="Познавательные",Славянский Мир
+http://st08.dvbip.tv:1206/index.m3u8
+#EXTINF:-1 tvg-name="Загородная жизнь" tvg-logo="zagorodnaya-zhizn-ru" group-title="Познавательные",Загородная жизнь
+http://st09.dvbip.tv:1339/index.m3u8
+#EXTINF:-1 tvg-name="Russian Extreme 4K" tvg-logo="russkij-extrem-ultra-rex-ru" group-title="Познавательные",Russian Extreme 4K
+http://st08.dvbip.tv:1275/index.m3u8
+#EXTINF:-1 tvg-name="РТ Док HD" tvg-logo="rt_documentary_ru" group-title="Познавательные",РТ Док HD
+http://st08.dvbip.tv:1203/index.m3u8
+#EXTINF:-1 tvg-name="Зал суда" tvg-logo="zal-suda-ru" group-title="Познавательные",Зал суда
+http://st09.dvbip.tv:1276/index.m3u8
+#EXTINF:-1 tvg-name="Доктор" tvg-logo="telekanal-doktor-ru" group-title="Познавательные",Доктор
+http://st09.dvbip.tv:1278/index.m3u8
+#EXTINF:-1 tvg-name="myZen.tv HD" tvg-logo="myzen-tv-fr" group-title="Познавательные",myZen.tv HD
+http://st08.dvbip.tv:1282/index.m3u8
+#EXTINF:-1 tvg-name="История" tvg-logo="istoriya_telekanal_ru" group-title="Познавательные",История
+http://st08.dvbip.tv:1245/index.m3u8
+#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="love_nature_ca" group-title="Познавательные",Love Nature HD
+http://st09.dvbip.tv:1283/index.m3u8
+#EXTINF:-1 tvg-name="Travel Channel" tvg-logo="travel_channel" group-title="Познавательные",Travel Channel
+http://st08.dvbip.tv:1401/index.m3u8
+#EXTINF:-1 tvg-name="Museum TV HD" tvg-logo="museum_tv_fr" group-title="Познавательные",Museum TV HD
+http://st08.dvbip.tv:1284/index.m3u8
+#EXTINF:-1 tvg-name="Резонанс ТВ HD" group-title="Познавательные",Резонанс ТВ HD
+http://st08.dvbip.tv:1229/index.m3u8
+#EXTINF:-1 tvg-name="Приключения HD" group-title="Познавательные",Приключения HD
+http://st08.dvbip.tv:1346/index.m3u8
+#EXTINF:-1 tvg-name="Авто Плюс HD" group-title="Познавательные",Авто Плюс HD
+http://st08.dvbip.tv:1262/index.m3u8
+#EXTINF:-1 tvg-name="Наша Сибирь HD" group-title="Познавательные",Наша Сибирь HD
+http://st08.dvbip.tv:1265/index.m3u8
+#EXTINF:-1 tvg-name="Арсенал HD" group-title="Познавательные",Арсенал HD
+http://st08.dvbip.tv:1286/index.m3u8
+#EXTINF:-1 tvg-name="Перпетуум мобиле HD" group-title="Познавательные",Перпетуум мобиле HD
+http://st08.dvbip.tv:1290/index.m3u8
+#EXTINF:-1 tvg-name="My Zen 4K" group-title="Познавательные",My Zen 4K
+http://st09.dvbip.tv:1346/index.m3u8
+#EXTINF:-1 tvg-name="Amedia Premium HD" tvg-logo="amedia_premium" group-title="Кино и сериалы",Amedia Premium HD
+http://st09.dvbip.tv:1458/index.m3u8
+#EXTINF:-1 tvg-name=".sci-fi" tvg-logo="sci-fi-ru" group-title="Кино и сериалы",.sci-fi
+http://st08.dvbip.tv:1263/index.m3u8
+#EXTINF:-1 tvg-name="Русский Роман" tvg-logo="russkiy_roman_ru" group-title="Кино и сериалы",Русский Роман
+http://st09.dvbip.tv:1248/index.m3u8
+#EXTINF:-1 tvg-name="Русский Детектив" tvg-logo="russkiy_detektiv_ru" group-title="Кино и сериалы",Русский Детектив
+http://st09.dvbip.tv:1249/index.m3u8
+#EXTINF:-1 tvg-name="Fox HD" tvg-logo="fox_global" group-title="Кино и сериалы",Fox HD
+http://st09.dvbip.tv:1208/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000" tvg-logo="viju-tv-1000-se-ru" group-title="Кино и сериалы",viju TV1000
+http://st09.dvbip.tv:1220/index.m3u8
+#EXTINF:-1 tvg-name="Русский Бестселлер" tvg-logo="russkiy_bestseller_ru" group-title="Кино и сериалы",Русский Бестселлер
+http://st09.dvbip.tv:1312/index.m3u8
+#EXTINF:-1 tvg-name="Дом Кино Премиум HD" tvg-logo="perviy_2_dom_kino_ru_premium" group-title="Кино и сериалы",Дом Кино Премиум HD
+http://st09.dvbip.tv:1419/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Premiere HD" tvg-logo="vijuplus-premiere-se-ru" group-title="Кино и сериалы",viju+ Premiere HD
+http://st08.dvbip.tv:1210/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Megahit HD" tvg-logo="vijuplus-megahit-se-ru" group-title="Кино и сериалы",viju+ Megahit HD
+http://st08.dvbip.tv:1213/index.m3u8
+#EXTINF:-1 tvg-name="НТВ Сериал" tvg-logo="ntv_ru_serial" group-title="Кино и сериалы",НТВ Сериал
+http://st09.dvbip.tv:1376/index.m3u8
+#EXTINF:-1 tvg-name="Сапфир HD" tvg-logo="sapfir-ru" group-title="Кино и сериалы",Сапфир HD
+http://st09.dvbip.tv:1434/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Comedy HD" tvg-logo="vijuplus-comedy-se-ru" group-title="Кино и сериалы",viju+ Comedy HD
+http://st09.dvbip.tv:1421/index.m3u8
+#EXTINF:-1 tvg-name="Кинопремьера HD" tvg-logo="nastroy_kino_ru_kino_premyera" group-title="Кино и сериалы",Кинопремьера HD
+http://st08.dvbip.tv:1420/index.m3u8
+#EXTINF:-1 tvg-name="Родное кино" tvg-logo="nastroy_kino_ru_rodnoe_kino" group-title="Кино и сериалы",Родное кино
+http://st08.dvbip.tv:1244/index.m3u8
+#EXTINF:-1 tvg-name="Душевное HD" aspect-ratio=16:9 tvg-logo="dushevnoe-ru" group-title="Кино и сериалы",Душевное HD
+http://st09.dvbip.tv:1334/index.m3u8
+#EXTINF:-1 tvg-name="Русский Иллюзион" tvg-logo="russkij_illusion" group-title="Кино и сериалы",Русский Иллюзион
+http://st08.dvbip.tv:1223/index.m3u8
+#EXTINF:-1 tvg-name="TV XXI" tvg-logo="tv21_lv" group-title="Кино и сериалы",TV XXI
+http://st09.dvbip.tv:1351/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 action" tvg-logo="viju-tv-1000-action-se-ru" group-title="Кино и сериалы",viju TV1000 action
+http://st08.dvbip.tv:1252/index.m3u8
+#EXTINF:-1 tvg-name="viju TV1000 русское" tvg-logo="viju-tv-1000-rosskoe-se-ru" group-title="Кино и сериалы",viju TV1000 русское
+http://st08.dvbip.tv:1314/index.m3u8
+#EXTINF:-1 tvg-name=".black" tvg-logo="black-ru" group-title="Кино и сериалы",.black
+http://st09.dvbip.tv:1264/index.m3u8
+#EXTINF:-1 tvg-name="A2 HD" tvg-logo="a_media_ru_2" group-title="Кино и сериалы",A2 HD
+http://st09.dvbip.tv:1357/index.m3u8
+#EXTINF:-1 tvg-name="НТВ-ХИТ" tvg-logo="ntv-hit-ru" group-title="Кино и сериалы",НТВ-ХИТ
+http://st08.dvbip.tv:1439/index.m3u8
+#EXTINF:-1 tvg-name="Любимое кино HD" tvg-logo="lubimoe_kino" group-title="Кино и сериалы",Любимое кино HD
+http://st08.dvbip.tv:1412/index.m3u8
+#EXTINF:-1 tvg-name="Дом Кино" aspect-ratio=16:9 tvg-logo="perviy_2_dom_kino" group-title="Кино и сериалы",Дом Кино
+http://st09.dvbip.tv:1343/index.m3u8
+#EXTINF:-1 tvg-name="Шокирующее HD" tvg-logo="shokiruyushcheye-ru" group-title="Кино и сериалы",Шокирующее HD
+http://st09.dvbip.tv:1449/index.m3u8
+#EXTINF:-1 tvg-name="Остросюжетное HD" tvg-logo="ostrosuyzhetnoye_ru_hd" group-title="Кино и сериалы",Остросюжетное HD
+http://st08.dvbip.tv:1450/index.m3u8
+#EXTINF:-1 tvg-name="Кинокомедия" tvg-logo="nastroy_kino_ru_kino_medija" group-title="Кино и сериалы",Кинокомедия
+http://st09.dvbip.tv:1454/index.m3u8
+#EXTINF:-1 tvg-name="Наше HD" tvg-logo="nashe_hd" group-title="Кино и сериалы",Наше Крутое HD
+http://st09.dvbip.tv:1451/index.m3u8
+#EXTINF:-1 tvg-name="Романтичное HD" tvg-logo="romantichnoe-ru" group-title="Кино и сериалы",Романтичное HD
+http://st08.dvbip.tv:1452/index.m3u8
+#EXTINF:-1 tvg-name="Кинохит" tvg-logo="kino_hit" group-title="Кино и сериалы",Кинохит
+http://st09.dvbip.tv:1328/index.m3u8
+#EXTINF:-1 tvg-name="FAN" tvg-logo="fan-ru" group-title="Кино и сериалы",FAN
+http://st08.dvbip.tv:1448/index.m3u8
+#EXTINF:-1 tvg-name="Комедийное HD" tvg-logo="komediynoe_hd" group-title="Кино и сериалы",Комедийное HD
+http://st08.dvbip.tv:1438/index.m3u8
+#EXTINF:-1 tvg-name="Индийское кино" tvg-logo="nastroy_kino_ru_indisjkoe_kino" group-title="Кино и сериалы",Индийское кино
+http://st09.dvbip.tv:1411/index.m3u8
+#EXTINF:-1 tvg-name="Star Cinema" tvg-logo="star-cinema" group-title="Кино и сериалы",Star Cinema
+http://st09.dvbip.tv:1336/index.m3u8
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="hollywood_hd" group-title="Кино и сериалы",Hollywood HD
+http://st08.dvbip.tv:1414/index.m3u8
+#EXTINF:-1 tvg-name="Киносвидание" tvg-logo="nastroy_kino_ru_kino_svidanie" group-title="Кино и сериалы",Киносвидание
+http://st09.dvbip.tv:1416/index.m3u8
+#EXTINF:-1 tvg-name="Киносемья" tvg-logo="nastroy_kino_ru_kino_semja" group-title="Кино и сериалы",Киносемья
+http://st09.dvbip.tv:1322/index.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ HD" tvg-logo="kino_tv_hd" group-title="Кино и сериалы",Кино ТВ HD
+http://st09.dvbip.tv:1317/index.m3u8
+#EXTINF:-1 tvg-name="Мужское кино HD" tvg-logo="muzhskoe_kino_hd" group-title="Кино и сериалы",Мужское кино HD
+http://st08.dvbip.tv:1456/index.m3u8
+#EXTINF:-1 tvg-name="Amedia Hit HD" tvg-logo="amedia_hit" group-title="Кино и сериалы",Amedia Hit HD
+http://st09.dvbip.tv:1257/index.m3u8
+#EXTINF:-1 tvg-name="Киномикс HD" tvg-logo="kino_miks_hd" group-title="Кино и сериалы",Киномикс HD
+http://st09.dvbip.tv:1460/index.m3u8
+#EXTINF:-1 tvg-name=".red" tvg-logo="red-ru" group-title="Кино и сериалы",.red
+http://st08.dvbip.tv:1461/index.m3u8
+#EXTINF:-1 tvg-name="Plan B HD" tvg-logo="plan-b-ru" group-title="Кино и сериалы",Plan B HD
+http://st09.dvbip.tv:1270/index.m3u8
+#EXTINF:-1 tvg-name="Наше новое кино" tvg-logo="nashe_novoe_kino" group-title="Кино и сериалы",Наше новое кино
+http://st08.dvbip.tv:1432/index.m3u8
+#EXTINF:-1 tvg-name="Мир Сериала" tvg-logo="mir_seriala" group-title="Кино и сериалы",Мир сериала
+http://st09.dvbip.tv:1258/index.m3u8
+#EXTINF:-1 tvg-name="Киносерия" tvg-logo="kinoseriya" group-title="Кино и сериалы",Киносерия
+http://st09.dvbip.tv:1424/index.m3u8
+#EXTINF:-1 tvg-name="Индия" tvg-logo="indiya-ru" group-title="Кино и сериалы",Индия
+http://st09.dvbip.tv:1268/index.m3u8
+#EXTINF:-1 tvg-name="Fox Life HD" tvg-logo="fox_life_ru" group-title="Кино и сериалы",Fox Life HD
+http://st08.dvbip.tv:1324/index.m3u8
+#EXTINF:-1 tvg-name="Любимое HD" tvg-logo="lyubimoe_hd" group-title="Кино и сериалы",Любимое HD
+http://st08.dvbip.tv:1476/index.m3u8
+#EXTINF:-1 tvg-name="Дорама" tvg-logo="dorama" group-title="Кино и сериалы",Дорама
+http://st09.dvbip.tv:1478/index.m3u8
+#EXTINF:-1 tvg-name="Кинеко HD" tvg-logo="kineko-ru" group-title="Кино и сериалы",Кинеко HD
+http://st08.dvbip.tv:1482/index.m3u8
+#EXTINF:-1 tvg-name="Сериал 4K" tvg-logo="serial_4k" group-title="Кино и сериалы",Сериал 4K
+http://st08.dvbip.tv:1486/index.m3u8
+#EXTINF:-1 tvg-name="Победа HD" tvg-logo="pobeda_hd" group-title="Кино и сериалы",Победа HD
+http://st08.dvbip.tv:1487/index.m3u8
+#EXTINF:-1 tvg-name="Иллюзион +" tvg-logo="illusion_plus" group-title="Кино и сериалы",Иллюзион +
+http://st08.dvbip.tv:1273/index.m3u8
+#EXTINF:-1 tvg-name="Киноужас" tvg-logo="kinouzhas_ru" group-title="Кино и сериалы",Киноужас
+http://st09.dvbip.tv:1462/index.m3u8
+#EXTINF:-1 tvg-name="Еврокино" tvg-logo="eurokino" group-title="Кино и сериалы",Еврокино
+http://st09.dvbip.tv:1345/index.m3u8
+#EXTINF:-1 tvg-name="A1" tvg-logo="a_media_ru_1" group-title="Кино и сериалы",A1
+http://st09.dvbip.tv:1464/index.m3u8
+#EXTINF:-1 tvg-name="Киноман" tvg-logo="kinosat_ru" group-title="Кино и сериалы",Киноман
+http://st08.dvbip.tv:1338/index.m3u8
+#EXTINF:-1 tvg-name="Настоящее страшное ТВ" tvg-logo="nastoyashee_strashnoe_tv_ru" group-title="Кино и сериалы",Настоящее страшное ТВ
+http://st08.dvbip.tv:1307/index.m3u8
+#EXTINF:-1 tvg-name="Мосфильм. Золотая колл…" tvg-logo="mosfilm-ru" group-title="Кино и сериалы",Мосфильм. Золотая колл…
+http://st08.dvbip.tv:1352/index.m3u8
+#EXTINF:-1 tvg-name="Премиальное HD" tvg-logo="premialnoe-ru" group-title="Кино и сериалы",Премиальное HD
+http://st09.dvbip.tv:1447/index.m3u8
+#EXTINF:-1 tvg-name="Bolt" tvg-logo="bolt_tv_ua" group-title="Кино и сериалы",Bolt
+http://st09.dvbip.tv:1348/index.m3u8
+#EXTINF:-1 tvg-name="Cinema HD" tvg-logo="telekarta_ru_cinema_hd" group-title="Кино и сериалы",Синема HD
+http://st08.dvbip.tv:1354/index.m3u8
+#EXTINF:-1 tvg-name="viju+ Serial HD" tvg-logo="vijuplus-serial-se-ru" group-title="Кино и сериалы",viju+ Serial HD
+http://st08.dvbip.tv:1362/index.m3u8
+#EXTINF:-1 tvg-name="FilmBox" tvg-logo="filmbox_central_eu" group-title="Кино и сериалы",FilmBox
+http://st08.dvbip.tv:1391/index.m3u8
+#EXTINF:-1 tvg-name="FilmBox Arthouse" tvg-logo="filmbox_arthouse_pl" group-title="Кино и сериалы",FilmBox Arthouse
+http://st08.dvbip.tv:1443/index.m3u8
+#EXTINF:-1 tvg-name="Театр" tvg-logo="telekanal_teatr_ru" group-title="Кино и сериалы",Театр
+http://st08.dvbip.tv:1207/index.m3u8
+#EXTINF:-1 tvg-name="Cinema 4K" tvg-logo="ultra-hd-cinema-ru" group-title="Кино и сериалы",Cinema 4K
+http://st08.dvbip.tv:1383/index.m3u8
+#EXTINF:-1 tvg-name="Bollywood HD" tvg-logo="bollywood-tv-il" group-title="Кино и сериалы",Bollywood HD
+http://st09.dvbip.tv:1267/index.m3u8
+#EXTINF:-1 tvg-name="Русская Комедия" tvg-logo="russkaya_komediya_ru" group-title="Кино и сериалы",Русская Комедия
+http://st08.dvbip.tv:1417/index.m3u8
+#EXTINF:-1 tvg-name="Дорама HD" group-title="Кино и сериалы",Дорама HD
+http://st08.dvbip.tv:1266/index.m3u8
+#EXTINF:-1 tvg-name="Киносезон HD" group-title="Кино и сериалы",Киносезон HD
+http://st08.dvbip.tv:1287/index.m3u8
+#EXTINF:-1 tvg-name="Советское кино HD" group-title="Кино и сериалы",Советское кино HD
+http://st08.dvbip.tv:1288/index.m3u8
+#EXTINF:-1 tvg-name="Индия HD" group-title="Кино и сериалы",Индия HD
+http://st08.dvbip.tv:1289/index.m3u8
+#EXTINF:-1 tvg-name="FAN HD" group-title="Кино и сериалы",FAN HD
+http://st09.dvbip.tv:1291/index.m3u8
+#EXTINF:-1 tvg-name="ТНТ Музыка" tvg-logo="tnt_ru_music" group-title="Музыкальные",ТНТ Музыка
+http://st08.dvbip.tv:1216/index.m3u8
+#EXTINF:-1 tvg-name="MusicBox" tvg-logo="music-box-russia-ru" group-title="Музыкальные",MusicBox
+http://st08.dvbip.tv:1441/index.m3u8
+#EXTINF:-1 tvg-name="Шансон ТВ" tvg-logo="shanson_tv" group-title="Музыкальные",Шансон ТВ
+http://st09.dvbip.tv:1399/index.m3u8
+#EXTINF:-1 tvg-name="Жара" tvg-logo="zhara_tv_ru" group-title="Музыкальные",Жара
+http://st08.dvbip.tv:1428/index.m3u8
+#EXTINF:-1 tvg-name="Europa Plus TV" tvg-logo="europa_plus_tv" group-title="Музыкальные",Europa Plus TV
+http://st08.dvbip.tv:1272/index.m3u8
+#EXTINF:-1 tvg-name="Bridge Classic" tvg-logo="bridge-tv-classic-ru" group-title="Музыкальные",Bridge Classic
+http://st08.dvbip.tv:1469/index.m3u8
+#EXTINF:-1 tvg-name="RU TV HD" tvg-logo="ru_tv_ru" group-title="Музыкальные",RU TV HD
+http://st08.dvbip.tv:1373/index.m3u8
+#EXTINF:-1 tvg-name="Bridge Фрэш" tvg-logo="bridge-tv-fresh-ru" group-title="Музыкальные",Bridge Фрэш
+http://st09.dvbip.tv:1365/index.m3u8
+#EXTINF:-1 tvg-name="Музыка Первого" tvg-logo="muzika_pervogo_ru" group-title="Музыкальные",Музыка Первого
+http://st08.dvbip.tv:1435/index.m3u8
+#EXTINF:-1 tvg-name="Bridge" tvg-logo="bridge-tv-ru" group-title="Музыкальные",Bridge
+http://st09.dvbip.tv:1471/index.m3u8
+#EXTINF:-1 tvg-name="Bridge Hits" tvg-logo="bridge-tv-russkiy-hit-ru" group-title="Музыкальные",Bridge Hits
+http://st09.dvbip.tv:1219/index.m3u8
+#EXTINF:-1 tvg-name="Bridge Шлягер" tvg-logo="bridge-tv-shlyager-ru" group-title="Музыкальные",Bridge Шлягер
+http://st09.dvbip.tv:1228/index.m3u8
+#EXTINF:-1 tvg-name="Bridge Rock" tvg-logo="bridge-tv-rock-ru" group-title="Музыкальные",Bridge Rock
+http://st09.dvbip.tv:1254/index.m3u8
+#EXTINF:-1 tvg-name="Bridge Русский Хит" tvg-logo="bridge-tv-russkiy-hit-ru" group-title="Музыкальные",Bridge Русский Хит
+http://st09.dvbip.tv:1259/index.m3u8
+#EXTINF:-1 tvg-name="Жара ТВ HD" group-title="Музыкальные",Жара ТВ HD
+http://st09.dvbip.tv:1309/index.m3u8
+#EXTINF:-1 tvg-name="Bridge Deluxe HD" group-title="Музыкальные",Bridge Deluxe HD
+http://st09.dvbip.tv:1310/index.m3u8
+#EXTINF:-1 tvg-name="ММТВ HD" group-title="Музыкальные",ММТВ HD
+http://st09.dvbip.tv:1315/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 1 HD" tvg-logo="match_ru_futbol_1" group-title="Спортивные",Матч! Футбол 1 HD
+http://st09.dvbip.tv:1323/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 2 HD" tvg-logo="match_ru_futbol_2" group-title="Спортивные",Матч! Футбол 2 HD
+http://st09.dvbip.tv:1430/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Футбол 3 HD" tvg-logo="match_ru_futbol_3" group-title="Спортивные",Матч! Футбол 3 HD
+http://st09.dvbip.tv:1431/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена" tvg-logo="match_ru_arena" group-title="Спортивные",Матч! Арена
+http://st09.dvbip.tv:1240/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра" tvg-logo="match_ru_igra" group-title="Спортивные",Матч! Игра
+http://st08.dvbip.tv:1242/index.m3u8
+#EXTINF:-1 tvg-name="Матч! HD" tvg-logo="match_ru_tv" group-title="Спортивные",Матч! HD
+http://st09.dvbip.tv:1306/index.m3u8
+#EXTINF:-1 tvg-name="Бокс ТВ" tvg-logo="boks_tv_ru" group-title="Спортивные",Бокс ТВ
+http://st09.dvbip.tv:1359/index.m3u8
+#EXTINF:-1 tvg-name="viju Sport" tvg-logo="vijuplus-sport-se-ru" group-title="Спортивные",viju Sport
+http://st09.dvbip.tv:1356/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 1 HD" tvg-logo="eurosport_hd" group-title="Спортивные",Eurosport 1 HD
+http://st09.dvbip.tv:1457/index.m3u8
+#EXTINF:-1 tvg-name="FightBOX" tvg-logo="fight_box" group-title="Спортивные",FightBox
+http://st09.dvbip.tv:1269/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Страна" tvg-logo="match-strana-ru" group-title="Спортивные",Матч! Страна
+http://st08.dvbip.tv:1444/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Боец" aspect-ratio=16:9 tvg-logo="boyets" group-title="Спортивные",Матч! Боец
+http://st09.dvbip.tv:1239/index.m3u8
+#EXTINF:-1 tvg-name="Старт Триумф HD" tvg-logo="start-triumph-ru" group-title="Спортивные",Старт Триумф HD
+http://st08.dvbip.tv:1480/index.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2 HD" tvg-logo="eurosport_2" group-title="Спортивные",Eurosport 2 HD
+http://st09.dvbip.tv:1484/index.m3u8
+#EXTINF:-1 tvg-name="Матч Премьер HD" tvg-logo="match-premier-ru" group-title="Спортивные",Матч Премьер HD
+http://st09.dvbip.tv:1408/index.m3u8
+#EXTINF:-1 tvg-name="MMA-TV.com" tvg-logo="mma-tv-ru" group-title="Спортивные",MMA-TV.com
+http://st08.dvbip.tv:1402/index.m3u8
+#EXTINF:-1 tvg-name="Точка отрыва" tvg-logo="tochka-otryva-ru" group-title="Спортивные",Точка отрыва
+http://st08.dvbip.tv:1463/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Планета" tvg-logo="match_ru_planeta" group-title="Спортивные",Матч! Планета
+http://st09.dvbip.tv:1407/index.m3u8
+#EXTINF:-1 tvg-name="Старт ТВ" tvg-logo="start_tv_ru" group-title="Спортивные",Старт ТВ
+http://st08.dvbip.tv:1329/index.m3u8
+#EXTINF:-1 tvg-name="KHL Prime HD" tvg-logo="khl_ru_hd" group-title="Спортивные",KHL Prime HD
+http://st09.dvbip.tv:1238/index.m3u8
+#EXTINF:-1 tvg-name="Extreme Sport" tvg-logo="extreme_sports_nl" group-title="Спортивные",Extreme Sport
+http://st09.dvbip.tv:1246/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 1 HD" tvg-logo="setanta-sports-1-evraziya-ie" group-title="Спортивные",Setanta Sports 1 HD
+http://st08.dvbip.tv:1280/index.m3u8
+#EXTINF:-1 tvg-name="Setanta Sports 2 HD" tvg-logo="setanta-sports-2-evraziya-ie" group-title="Спортивные",Setanta Sports 2 HD
+http://st08.dvbip.tv:1281/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Арена HD" group-title="Спортивные",Матч! Арена HD
+http://st09.dvbip.tv:1295/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Игра HD" group-title="Спортивные",Матч! Игра HD
+http://st09.dvbip.tv:1296/index.m3u8
+#EXTINF:-1 tvg-name="ТВ Спорт HD" group-title="Спортивные",ТВ Спорт HD
+http://st09.dvbip.tv:1297/index.m3u8
+#EXTINF:-1 tvg-name="Хоккей HD" group-title="Спортивные",Хоккей HD
+http://st09.dvbip.tv:1298/index.m3u8
+#EXTINF:-1 tvg-name="Матч! Боец HD" group-title="Спортивные",Матч! Боец HD
+http://st09.dvbip.tv:1299/index.m3u8
+#EXTINF:-1 tvg-name="Мяч HD" group-title="Спортивные",Мяч HD
+http://st09.dvbip.tv:1302/index.m3u8
+#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="nick_jr_us" group-title="Детские",Nick Jr.
+http://st08.dvbip.tv:1380/index.m3u8
+#EXTINF:-1 tvg-name="TiJi" tvg-logo="tiji_fr_russia" group-title="Детские",TiJi
+http://st08.dvbip.tv:1367/index.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-logo="nickelodeon_us_hd" group-title="Детские",Nickelodeon HD
+http://st09.dvbip.tv:1403/index.m3u8
+#EXTINF:-1 tvg-name="В гостях у сказки" tvg-logo="v_gostyakh_u_skazki_ru" group-title="Детские",В гостях у сказки
+http://st08.dvbip.tv:1466/index.m3u8
+#EXTINF:-1 tvg-name="Baby Time" tvg-logo="baby-time-ru" group-title="Детские",Baby Time
+http://st09.dvbip.tv:1404/index.m3u8
+#EXTINF:-1 tvg-name="Мультимузыка" tvg-logo="mult-i-muzyka-ru" group-title="Детские",Мультимузыка
+http://st08.dvbip.tv:1211/index.m3u8
+#EXTINF:-1 tvg-name="Детский мир" tvg-logo="ntv_plus_detski_mir" group-title="Детские",Детский мир
+http://st09.dvbip.tv:1410/index.m3u8
+#EXTINF:-1 tvg-name="Супер Герои" tvg-logo="supergeroi-ru" group-title="Детские",Супер Герои
+http://st09.dvbip.tv:1250/index.m3u8
+#EXTINF:-1 tvg-name="Уникум" tvg-logo="unikum" group-title="Детские",Уникум
+http://st09.dvbip.tv:1360/index.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="cartoon_network_global" group-title="Детские",Cartoon Network
+http://st09.dvbip.tv:1413/index.m3u8
+#EXTINF:-1 tvg-name="Ani" tvg-logo="ani_tv" group-title="Детские",Ani
+http://st09.dvbip.tv:1453/index.m3u8
+#EXTINF:-1 tvg-name="Мульт HD" tvg-logo="mult_hd" group-title="Детские",Мульт HD
+http://st09.dvbip.tv:1455/index.m3u8
+#EXTINF:-1 tvg-name="Капитан Фантастика HD" tvg-logo="kapitan_fantastika_hd" group-title="Детские",Капитан Фантастика HD
+http://st08.dvbip.tv:1473/index.m3u8
+#EXTINF:-1 tvg-name="О!" tvg-logo="telekanal_o" group-title="Детские",О!
+http://st08.dvbip.tv:1479/index.m3u8
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="cartoonito-us" group-title="Детские",Cartoonito
+http://st08.dvbip.tv:1279/index.m3u8
+#EXTINF:-1 tvg-name="Gulli Girl" tvg-logo="gulli_girl" group-title="Детские",Gulli Girl
+http://st08.dvbip.tv:1321/index.m3u8
+#EXTINF:-1 tvg-name="СТС Kids" tvg-logo="sts_kids" group-title="Детские",СТС Kids
+http://st09.dvbip.tv:1395/index.m3u8
+#EXTINF:-1 tvg-name="Мультиландия" tvg-logo="multilandia-ru" group-title="Детские",Мультиландия
+http://st09.dvbip.tv:1342/index.m3u8
+#EXTINF:-1 tvg-name="Солнце" aspect-ratio=16:9 tvg-logo="solntse-ru" group-title="Детские",Солнце
+http://st08.dvbip.tv:1201/index.m3u8
+#EXTINF:-1 tvg-name="В гостях у сказки HD" group-title="Детские",В гостях у сказки HD
+http://st09.dvbip.tv:1292/index.m3u8
+#EXTINF:-1 tvg-name="Детский Мир HD" group-title="Детские",Детский Мир HD
+http://st09.dvbip.tv:1293/index.m3u8
+#EXTINF:-1 tvg-name="СТС Kids HD" group-title="Детские",СТС Kids HD
+http://st09.dvbip.tv:1294/index.m3u8

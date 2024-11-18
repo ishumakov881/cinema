@@ -1,0 +1,555 @@
+#EXTM3U
+#EXTINF:0, Perviy Kanal
+http://st08.dvbip.tv:1388/index.m3u8
+#EXTINF:0, Rossia 1
+http://st09.dvbip.tv:1333/index.m3u8
+#EXTINF:0, Match!
+http://st09.dvbip.tv:1305/index.m3u8
+#EXTINF:0, NTV
+http://st09.dvbip.tv:1364/index.m3u8
+#EXTINF:0, 5 kanal SPb
+http://st09.dvbip.tv:1325/index.m3u8
+#EXTINF:0, Rossia K
+http://st08.dvbip.tv:1384/index.m3u8
+#EXTINF:0, Rossia 24
+http://st08.dvbip.tv:1398/index.m3u8
+#EXTINF:0, Karusel
+http://st09.dvbip.tv:1340/index.m3u8
+#EXTINF:0, OTR
+http://st08.dvbip.tv:1490/index.m3u8
+#EXTINF:0, TVC
+http://st08.dvbip.tv:1382/index.m3u8
+#EXTINF:0, REN TV
+http://st09.dvbip.tv:1230/index.m3u8
+#EXTINF:0, Spas
+http://st08.dvbip.tv:1347/index.m3u8
+#EXTINF:0, CTC HD
+http://st09.dvbip.tv:1459/index.m3u8
+#EXTINF:0, Domashnii
+http://st09.dvbip.tv:1427/index.m3u8
+#EXTINF:0, ТВ-3
+http://st09.dvbip.tv:1214/index.m3u8
+#EXTINF:0, Pyatnitsa
+http://st08.dvbip.tv:1215/index.m3u8
+#EXTINF:0, Zvezda
+http://st09.dvbip.tv:1372/index.m3u8
+#EXTINF:0, Mir
+http://st08.dvbip.tv:1377/index.m3u8
+#EXTINF:0, TNT
+http://st09.dvbip.tv:1231/index.m3u8
+#EXTINF:0, Muz TV
+http://st08.dvbip.tv:1233/index.m3u8
+#EXTINF:0, Lugansk 24
+http://st09.dvbip.tv:1331/index.m3u8
+#EXTINF:0, NTV HD
+http://st09.dvbip.tv:1415/index.m3u8
+#EXTINF:0, NTV Mir
+http://st09.dvbip.tv:1387/index.m3u8
+#EXTINF:0, RedLine TV
+http://st08.dvbip.tv:1226/index.m3u8
+#EXTINF:0, Moskva Doverie
+http://st08.dvbip.tv:1332/index.m3u8
+#EXTINF:0, Centralnoe TV
+http://st09.dvbip.tv:1326/index.m3u8
+#EXTINF:0, RTR Planeta
+http://st08.dvbip.tv:1313/index.m3u8
+#EXTINF:0, CGTN
+http://st08.dvbip.tv:1397/index.m3u8
+#EXTINF:0, 5 INTERNATIONAL
+http://st09.dvbip.tv:1350/index.m3u8
+#EXTINF:0, Perviy HD
+http://st09.dvbip.tv:1406/index.m3u8
+#EXTINF:0, Rossiya 1 HD
+http://st09.dvbip.tv:1405/index.m3u8
+#EXTINF:0, 8 kanal
+http://st08.dvbip.tv:1392/index.m3u8
+#EXTINF:0, BelRos
+http://st09.dvbip.tv:1379/index.m3u8
+#EXTINF:0, RBC HD
+http://st09.dvbip.tv:1369/index.m3u8
+#EXTINF:0, LDS Info
+http://st08.dvbip.tv:1301/index.m3u8
+#EXTINF:0, 360° Novosti
+http://st09.dvbip.tv:1247/index.m3u8
+#EXTINF:0, Izvestia
+http://st08.dvbip.tv:1426/index.m3u8
+#EXTINF:0, Uspeh
+http://st08.dvbip.tv:1224/index.m3u8
+#EXTINF:0, 360 HD
+http://st09.dvbip.tv:1396/index.m3u8
+#EXTINF:0, Soyuz
+http://st08.dvbip.tv:1260/index.m3u8
+#EXTINF:0, Mir 24
+http://st08.dvbip.tv:1385/index.m3u8
+#EXTINF:0, Moskva 24
+http://st08.dvbip.tv:1335/index.m3u8
+#EXTINF:0, Soloviev Live
+http://st08.dvbip.tv:1285/index.m3u8
+#EXTINF:0, TNT4
+http://st09.dvbip.tv:1237/index.m3u8
+#EXTINF:0, E HD
+http://st09.dvbip.tv:1437/index.m3u8
+#EXTINF:0, FashionBox
+http://st09.dvbip.tv:1371/index.m3u8
+#EXTINF:0, 2X2
+http://st09.dvbip.tv:1225/index.m3u8
+#EXTINF:0, Anekdot TV
+http://st09.dvbip.tv:1381/index.m3u8
+#EXTINF:0, TNT HD
+http://st09.dvbip.tv:1422/index.m3u8
+#EXTINF:0, О!2
+http://st08.dvbip.tv:1363/index.m3u8
+#EXTINF:0, Prodvizhenie
+http://st08.dvbip.tv:1255/index.m3u8
+#EXTINF:0, Juvelirochka
+http://st08.dvbip.tv:1261/index.m3u8
+#EXTINF:0, Subbota!
+http://st09.dvbip.tv:1222/index.m3u8
+#EXTINF:0, Telekafe
+http://st08.dvbip.tv:1355/index.m3u8
+#EXTINF:0, Nostalgiya
+http://st08.dvbip.tv:1327/index.m3u8
+#EXTINF:0, KVN TV
+http://st09.dvbip.tv:1271/index.m3u8
+#EXTINF:0, FoodTime HD
+http://st08.dvbip.tv:1475/index.m3u8
+#EXTINF:0, Sarafan
+http://st08.dvbip.tv:1212/index.m3u8
+#EXTINF:0, Che!
+http://st09.dvbip.tv:1394/index.m3u8
+#EXTINF:0, Peretz
+http://st08.dvbip.tv:1488/index.m3u8
+#EXTINF:0, STS Int.
+http://st09.dvbip.tv:1497/index.m3u8
+#EXTINF:0, Domashnii Int.
+http://st09.dvbip.tv:1498/index.m3u8
+#EXTINF:0, REN TV Int.
+http://st08.dvbip.tv:1499/index.m3u8
+#EXTINF:0, Timeless Dizi Channel
+http://st08.dvbip.tv:1468/index.m3u8
+#EXTINF:0, Pervii Vegetarianskiy
+http://st08.dvbip.tv:1304/index.m3u8
+#EXTINF:0, Star Family
+http://st09.dvbip.tv:1320/index.m3u8
+#EXTINF:0, Glazami Turista HD
+http://st09.dvbip.tv:1366/index.m3u8
+#EXTINF:0, NTV STIL
+http://st09.dvbip.tv:1375/index.m3u8
+#EXTINF:0, FastnfunBox
+http://st08.dvbip.tv:1389/index.m3u8
+#EXTINF:0, Mugskoi
+http://st09.dvbip.tv:1341/index.m3u8
+#EXTINF:0, U
+http://st08.dvbip.tv:1202/index.m3u8
+#EXTINF:0, STS Love
+http://st09.dvbip.tv:1390/index.m3u8
+#EXTINF:0, Kto Kuda
+http://st08.dvbip.tv:1243/index.m3u8
+#EXTINF:0, Leomax24
+http://st08.dvbip.tv:1349/index.m3u8
+#EXTINF:0, Gags Network
+http://st09.dvbip.tv:1277/index.m3u8
+#EXTINF:0, Tochka TV
+http://st08.dvbip.tv:1256/index.m3u8
+#EXTINF:0, Т24
+http://st08.dvbip.tv:1251/index.m3u8
+#EXTINF:0, Otkrityi Mir
+http://st09.dvbip.tv:1337/index.m3u8
+#EXTINF:0, Terra HD
+http://st09.dvbip.tv:1308/index.m3u8
+#EXTINF:0, OXOTA&PbIBALKA
+http://st08.dvbip.tv:1204/index.m3u8
+#EXTINF:0, viju+ Planet HD
+http://st08.dvbip.tv:1483/index.m3u8
+#EXTINF:0, viju Explore
+http://st09.dvbip.tv:1221/index.m3u8
+#EXTINF:0, viju History
+http://st09.dvbip.tv:1253/index.m3u8
+#EXTINF:0, Top Secret
+http://st08.dvbip.tv:1344/index.m3u8
+#EXTINF:0, Dikii
+http://st08.dvbip.tv:1316/index.m3u8
+#EXTINF:0, Nasha Tema
+http://st08.dvbip.tv:1236/index.m3u8
+#EXTINF:0, Dialogi o rybalke
+http://st08.dvbip.tv:1235/index.m3u8
+#EXTINF:0, Nat Geo Wild HD
+http://st09.dvbip.tv:1358/index.m3u8
+#EXTINF:0, DocuBOX
+http://st08.dvbip.tv:1378/index.m3u8
+#EXTINF:0, Bober
+http://st09.dvbip.tv:1433/index.m3u8
+#EXTINF:0, Discovery Channel HD
+http://st09.dvbip.tv:1330/index.m3u8
+#EXTINF:0, Dikaya Rybalka HD
+http://st09.dvbip.tv:1445/index.m3u8
+#EXTINF:0, Dikaya Okhota HD
+http://st09.dvbip.tv:1446/index.m3u8
+#EXTINF:0, Zhivaya Priroda HD
+http://st08.dvbip.tv:1318/index.m3u8
+#EXTINF:0, Ocean TV
+http://st08.dvbip.tv:1465/index.m3u8
+#EXTINF:0, Авто24
+http://st09.dvbip.tv:1467/index.m3u8
+#EXTINF:0, Da Vinci
+http://st09.dvbip.tv:1353/index.m3u8
+#EXTINF:0, Moja Planeta HD
+http://st08.dvbip.tv:1472/index.m3u8
+#EXTINF:0, Russian Extreme HD
+http://st08.dvbip.tv:1477/index.m3u8
+#EXTINF:0, Tainy Galaktiki HD
+http://st08.dvbip.tv:1481/index.m3u8
+#EXTINF:0, Investigation Discovery HD
+http://st08.dvbip.tv:1232/index.m3u8
+#EXTINF:0, TLC HD
+http://st08.dvbip.tv:1209/index.m3u8
+#EXTINF:0, Animal Planet HD
+http://st09.dvbip.tv:1241/index.m3u8
+#EXTINF:0, HDL
+http://st08.dvbip.tv:1409/index.m3u8
+#EXTINF:0, Mama
+http://st08.dvbip.tv:1217/index.m3u8
+#EXTINF:0, Auto Plus
+http://st08.dvbip.tv:1311/index.m3u8
+#EXTINF:0, Zvezda Plus
+http://st08.dvbip.tv:1485/index.m3u8
+#EXTINF:0, Zоопарк
+http://st08.dvbip.tv:1303/index.m3u8
+#EXTINF:0, National Geographic HD
+http://st09.dvbip.tv:1319/index.m3u8
+#EXTINF:0, Nauka HD
+http://st08.dvbip.tv:1361/index.m3u8
+#EXTINF:0, NTV PRAVO
+http://st09.dvbip.tv:1374/index.m3u8
+#EXTINF:0, RTG TV
+http://st09.dvbip.tv:1470/index.m3u8
+#EXTINF:0, Slavynskij Mir
+http://st08.dvbip.tv:1206/index.m3u8
+#EXTINF:0, Zagorodnaia Zhizn
+http://st09.dvbip.tv:1339/index.m3u8
+#EXTINF:0, Russian Extreme 4K
+http://st08.dvbip.tv:1275/index.m3u8
+#EXTINF:0, RT Doc HD
+http://st08.dvbip.tv:1203/index.m3u8
+#EXTINF:0, Zal suda
+http://st09.dvbip.tv:1276/index.m3u8
+#EXTINF:0, Doktor
+http://st09.dvbip.tv:1278/index.m3u8
+#EXTINF:0, myZen.tv HD
+http://st08.dvbip.tv:1282/index.m3u8
+#EXTINF:0, History
+http://st08.dvbip.tv:1245/index.m3u8
+#EXTINF:0, Love Nature HD
+http://st09.dvbip.tv:1283/index.m3u8
+#EXTINF:0, Travel Channel
+http://st08.dvbip.tv:1401/index.m3u8
+#EXTINF:0, Museum TV HD
+http://st08.dvbip.tv:1284/index.m3u8
+#EXTINF:0, Amedia Premium HD
+http://st09.dvbip.tv:1458/index.m3u8
+#EXTINF:0, .sci-fi
+http://st08.dvbip.tv:1263/index.m3u8
+#EXTINF:0, Russkii Roman
+http://st09.dvbip.tv:1248/index.m3u8
+#EXTINF:0, Russkii Detektiv
+http://st09.dvbip.tv:1249/index.m3u8
+#EXTINF:0, Fox HD
+http://st09.dvbip.tv:1208/index.m3u8
+#EXTINF:0, viju TV1000
+http://st09.dvbip.tv:1220/index.m3u8
+#EXTINF:0, Russkiy Bestseller
+http://st09.dvbip.tv:1312/index.m3u8
+#EXTINF:0, Dom Kino Premium HD
+http://st09.dvbip.tv:1419/index.m3u8
+#EXTINF:0, viju+ Premiere HD
+http://st08.dvbip.tv:1210/index.m3u8
+#EXTINF:0, viju+ Megahit HD
+http://st08.dvbip.tv:1213/index.m3u8
+#EXTINF:0, NTV Serial
+http://st09.dvbip.tv:1376/index.m3u8
+#EXTINF:0, Sapfir HD
+http://st09.dvbip.tv:1434/index.m3u8
+#EXTINF:0, viju+ Comedy HD
+http://st09.dvbip.tv:1421/index.m3u8
+#EXTINF:0, Kinopremiera HD
+http://st08.dvbip.tv:1420/index.m3u8
+#EXTINF:0, Rodnoe kino
+http://st08.dvbip.tv:1244/index.m3u8
+#EXTINF:0, Dushevnoe HD
+http://st09.dvbip.tv:1334/index.m3u8
+#EXTINF:0, Russkij illuzion
+http://st08.dvbip.tv:1223/index.m3u8
+#EXTINF:0, XXI
+http://st09.dvbip.tv:1351/index.m3u8
+#EXTINF:0, viju TV1000 аction
+http://st08.dvbip.tv:1252/index.m3u8
+#EXTINF:0, viju TV1000 Ru Kino
+http://st08.dvbip.tv:1314/index.m3u8
+#EXTINF:0, .black
+http://st09.dvbip.tv:1264/index.m3u8
+#EXTINF:0, A2 HD
+http://st09.dvbip.tv:1357/index.m3u8
+#EXTINF:0, NTV-HIT
+http://st08.dvbip.tv:1439/index.m3u8
+#EXTINF:0, Lubimoe Kino HD
+http://st08.dvbip.tv:1412/index.m3u8
+#EXTINF:0, Dom Kino
+http://st09.dvbip.tv:1343/index.m3u8
+#EXTINF:0, Shokiruuschee HD
+http://st09.dvbip.tv:1449/index.m3u8
+#EXTINF:0, Ostrosujetnoe HD
+http://st08.dvbip.tv:1450/index.m3u8
+#EXTINF:0, Kinokomedia
+http://st09.dvbip.tv:1454/index.m3u8
+#EXTINF:0, Nashe HD
+http://st09.dvbip.tv:1451/index.m3u8
+#EXTINF:0, Romantichnoe HD
+http://st08.dvbip.tv:1452/index.m3u8
+#EXTINF:0, Kinohit
+http://st09.dvbip.tv:1328/index.m3u8
+#EXTINF:0, FAN
+http://st08.dvbip.tv:1448/index.m3u8
+#EXTINF:0, Komediinoe HD
+http://st08.dvbip.tv:1438/index.m3u8
+#EXTINF:0, Indiiskoe kino
+http://st09.dvbip.tv:1411/index.m3u8
+#EXTINF:0, Star Cinema
+http://st09.dvbip.tv:1336/index.m3u8
+#EXTINF:0, Hollywood HD
+http://st08.dvbip.tv:1414/index.m3u8
+#EXTINF:0, Kinosvidanie
+http://st09.dvbip.tv:1416/index.m3u8
+#EXTINF:0, Kinosemia
+http://st09.dvbip.tv:1322/index.m3u8
+#EXTINF:0, Kino TV HD
+http://st09.dvbip.tv:1317/index.m3u8
+#EXTINF:0, Muzhskoe kino HD
+http://st08.dvbip.tv:1456/index.m3u8
+#EXTINF:0, Amedia Hit HD
+http://st09.dvbip.tv:1257/index.m3u8
+#EXTINF:0, Kinomix HD
+http://st09.dvbip.tv:1460/index.m3u8
+#EXTINF:0, .red
+http://st08.dvbip.tv:1461/index.m3u8
+#EXTINF:0, Plan B HD
+http://st09.dvbip.tv:1270/index.m3u8
+#EXTINF:0, Nashe Novoe Kino
+http://st08.dvbip.tv:1432/index.m3u8
+#EXTINF:0, Mir Seriala
+http://st09.dvbip.tv:1258/index.m3u8
+#EXTINF:0, Kinoserija
+http://st09.dvbip.tv:1424/index.m3u8
+#EXTINF:0, Indiya
+http://st09.dvbip.tv:1268/index.m3u8
+#EXTINF:0, Fox Life HD
+http://st08.dvbip.tv:1324/index.m3u8
+#EXTINF:0, Lubimoe HD
+http://st08.dvbip.tv:1476/index.m3u8
+#EXTINF:0, Dorama
+http://st09.dvbip.tv:1478/index.m3u8
+#EXTINF:0, Kineko HD
+http://st08.dvbip.tv:1482/index.m3u8
+#EXTINF:0, Serial 4K
+http://st08.dvbip.tv:1486/index.m3u8
+#EXTINF:0, Pobeda HD
+http://st08.dvbip.tv:1487/index.m3u8
+#EXTINF:0, Illuzion +
+http://st08.dvbip.tv:1273/index.m3u8
+#EXTINF:0, Kinouzhas
+http://st09.dvbip.tv:1462/index.m3u8
+#EXTINF:0, Eurokino
+http://st09.dvbip.tv:1345/index.m3u8
+#EXTINF:0, A1
+http://st09.dvbip.tv:1464/index.m3u8
+#EXTINF:0, Kinoman
+http://st08.dvbip.tv:1338/index.m3u8
+#EXTINF:0, Nastojashee strashnoe TV
+http://st08.dvbip.tv:1307/index.m3u8
+#EXTINF:0, Mosfilm.Zolotaja koll...
+http://st08.dvbip.tv:1352/index.m3u8
+#EXTINF:0, Premialnoe HD
+http://st09.dvbip.tv:1447/index.m3u8
+#EXTINF:0, Bolt
+http://st09.dvbip.tv:1348/index.m3u8
+#EXTINF:0, CINEMA HD
+http://st08.dvbip.tv:1354/index.m3u8
+#EXTINF:0, viju+ Serial HD
+http://st08.dvbip.tv:1362/index.m3u8
+#EXTINF:0, FilmBox
+http://st08.dvbip.tv:1391/index.m3u8
+#EXTINF:0, FilmBox Arthouse
+http://st08.dvbip.tv:1443/index.m3u8
+#EXTINF:0, Teatr
+http://st08.dvbip.tv:1207/index.m3u8
+#EXTINF:0, Cinema 4K
+http://st08.dvbip.tv:1383/index.m3u8
+#EXTINF:0, Bollywood HD
+http://st09.dvbip.tv:1267/index.m3u8
+#EXTINF:0, Russkaya Komedia
+http://st08.dvbip.tv:1417/index.m3u8
+#EXTINF:0, TNT Music
+http://st08.dvbip.tv:1216/index.m3u8
+#EXTINF:0, MusicBox
+http://st08.dvbip.tv:1441/index.m3u8
+#EXTINF:0, Shanson TV
+http://st09.dvbip.tv:1399/index.m3u8
+#EXTINF:0, Zhara
+http://st08.dvbip.tv:1428/index.m3u8
+#EXTINF:0, Europa Plus TV
+http://st08.dvbip.tv:1272/index.m3u8
+#EXTINF:0, Bridge Classic
+http://st08.dvbip.tv:1469/index.m3u8
+#EXTINF:0, RU TV HD
+http://st08.dvbip.tv:1373/index.m3u8
+#EXTINF:0, Bridge Fresch
+http://st09.dvbip.tv:1365/index.m3u8
+#EXTINF:0, Muzika Pervogo
+http://st08.dvbip.tv:1435/index.m3u8
+#EXTINF:0, Bridge
+http://st09.dvbip.tv:1471/index.m3u8
+#EXTINF:0, Bridge Hits
+http://st09.dvbip.tv:1219/index.m3u8
+#EXTINF:0, Bridge Shlyager
+http://st09.dvbip.tv:1228/index.m3u8
+#EXTINF:0, Bridge Rock
+http://st09.dvbip.tv:1254/index.m3u8
+#EXTINF:0, Bridge Russkiy Hit
+http://st09.dvbip.tv:1259/index.m3u8
+#EXTINF:0, Match! Football 1 HD
+http://st09.dvbip.tv:1323/index.m3u8
+#EXTINF:0, Match! Football 2 HD
+http://st09.dvbip.tv:1430/index.m3u8
+#EXTINF:0, Match! Football 3 HD
+http://st09.dvbip.tv:1431/index.m3u8
+#EXTINF:0, Match! Arena
+http://st09.dvbip.tv:1240/index.m3u8
+#EXTINF:0, Match! Igra
+http://st08.dvbip.tv:1242/index.m3u8
+#EXTINF:0, Match! HD
+http://st09.dvbip.tv:1306/index.m3u8
+#EXTINF:0, Boks TV
+http://st09.dvbip.tv:1359/index.m3u8
+#EXTINF:0, viju Sport
+http://st09.dvbip.tv:1356/index.m3u8
+#EXTINF:0, Eurosport 1 HD
+http://st09.dvbip.tv:1457/index.m3u8
+#EXTINF:0, FightBOX
+http://st09.dvbip.tv:1269/index.m3u8
+#EXTINF:0, Match! Strana
+http://st08.dvbip.tv:1444/index.m3u8
+#EXTINF:0, Match! Boec
+http://st09.dvbip.tv:1239/index.m3u8
+#EXTINF:0, Start Triumf HD
+http://st08.dvbip.tv:1480/index.m3u8
+#EXTINF:0, Eurosport 2 HD
+http://st09.dvbip.tv:1484/index.m3u8
+#EXTINF:0, Match Premier HD
+http://st09.dvbip.tv:1408/index.m3u8
+#EXTINF:0, MMA‑TV.com
+http://st08.dvbip.tv:1402/index.m3u8
+#EXTINF:0, Tochka Otriva
+http://st08.dvbip.tv:1463/index.m3u8
+#EXTINF:0, Match! Planeta
+http://st09.dvbip.tv:1407/index.m3u8
+#EXTINF:0, Start TV
+http://st08.dvbip.tv:1329/index.m3u8
+#EXTINF:0, KHL Prime HD
+http://st09.dvbip.tv:1238/index.m3u8
+#EXTINF:0, Extreme Sport
+http://st09.dvbip.tv:1246/index.m3u8
+#EXTINF:0, Setanta Sports 1 HD
+http://st08.dvbip.tv:1280/index.m3u8
+#EXTINF:0, Setanta Sports 2 HD
+http://st08.dvbip.tv:1281/index.m3u8
+#EXTINF:0, Nick Jr.
+http://st08.dvbip.tv:1380/index.m3u8
+#EXTINF:0, TiJi
+http://st08.dvbip.tv:1367/index.m3u8
+#EXTINF:0, Nickelodeon HD
+http://st09.dvbip.tv:1403/index.m3u8
+#EXTINF:0, V gostiax u skazki
+http://st08.dvbip.tv:1466/index.m3u8
+#EXTINF:0, Baby Time
+http://st09.dvbip.tv:1404/index.m3u8
+#EXTINF:0, Multimuzika
+http://st08.dvbip.tv:1211/index.m3u8
+#EXTINF:0, Detskiy mir
+http://st09.dvbip.tv:1410/index.m3u8
+#EXTINF:0, Super Geroi
+http://st09.dvbip.tv:1250/index.m3u8
+#EXTINF:0, Unicum
+http://st09.dvbip.tv:1360/index.m3u8
+#EXTINF:0, Cartoon Network
+http://st09.dvbip.tv:1413/index.m3u8
+#EXTINF:0, Ani
+http://st09.dvbip.tv:1453/index.m3u8
+#EXTINF:0, Mult HD
+http://st09.dvbip.tv:1455/index.m3u8
+#EXTINF:0, Kapitan Fantastika HD
+http://st08.dvbip.tv:1473/index.m3u8
+#EXTINF:0, O!
+http://st08.dvbip.tv:1479/index.m3u8
+#EXTINF:0, Cartonito
+http://st08.dvbip.tv:1279/index.m3u8
+#EXTINF:0, Gulli Girl
+http://st08.dvbip.tv:1321/index.m3u8
+#EXTINF:0, STS Kids
+http://st09.dvbip.tv:1395/index.m3u8
+#EXTINF:0, Multilandiya
+http://st09.dvbip.tv:1342/index.m3u8
+#EXTINF:0, Solnce 
+http://st08.dvbip.tv:1201/index.m3u8
+#EXTINF:0, 5 kanal SPB int. HD
+http://st08.dvbip.tv:1205/index.m3u8
+#EXTINF:0, Ren TV HD
+http://st08.dvbip.tv:1218/index.m3u8
+#EXTINF:0, Zvezda Plus HD
+http://st08.dvbip.tv:1227/index.m3u8
+#EXTINF:0, Rezonans TV HD
+http://st08.dvbip.tv:1229/index.m3u8
+#EXTINF:0, Priklyucheniya HD
+http://st08.dvbip.tv:1346/index.m3u8
+#EXTINF:0, Avto Plus HD
+http://st08.dvbip.tv:1262/index.m3u8
+#EXTINF:0, Nasha Sibir HD
+http://st08.dvbip.tv:1265/index.m3u8
+#EXTINF:0, Dorama HD
+http://st08.dvbip.tv:1266/index.m3u8
+#EXTINF:0, Arsenal HD
+http://st08.dvbip.tv:1286/index.m3u8
+#EXTINF:0, Kinosezon HD
+http://st08.dvbip.tv:1287/index.m3u8
+#EXTINF:0, Sovetskoe kino HD
+http://st08.dvbip.tv:1288/index.m3u8
+#EXTINF:0, Indiya HD
+http://st08.dvbip.tv:1289/index.m3u8
+#EXTINF:0, Perpetuum mobile HD
+http://st08.dvbip.tv:1290/index.m3u8
+#EXTINF:0, FAN HD
+http://st09.dvbip.tv:1291/index.m3u8
+#EXTINF:0, V gostyah u skazki HD
+http://st09.dvbip.tv:1292/index.m3u8
+#EXTINF:0, Detskij Mir HD
+http://st09.dvbip.tv:1293/index.m3u8
+#EXTINF:0, STS Kids HD
+http://st09.dvbip.tv:1294/index.m3u8
+#EXTINF:0, Match! Arena HD
+http://st09.dvbip.tv:1295/index.m3u8
+#EXTINF:0, Match! Igra HD
+http://st09.dvbip.tv:1296/index.m3u8
+#EXTINF:0, TV Sport HD
+http://st09.dvbip.tv:1297/index.m3u8
+#EXTINF:0, Hokkej HD
+http://st09.dvbip.tv:1298/index.m3u8
+#EXTINF:0, Match! Boec HD
+http://st09.dvbip.tv:1299/index.m3u8
+#EXTINF:0, Myach HD
+http://st09.dvbip.tv:1302/index.m3u8
+#EXTINF:0, Zhara TV HD
+http://st09.dvbip.tv:1309/index.m3u8
+#EXTINF:0, Bridge Deluxe HD
+http://st09.dvbip.tv:1310/index.m3u8
+#EXTINF:0, MMTV HD
+http://st09.dvbip.tv:1315/index.m3u8
+#EXTINF:0, My Zen 4K
+http://st09.dvbip.tv:1346/index.m3u8
